@@ -1,0 +1,8 @@
+batting_team,"SUM(total_runs)/
+    (SELECT COUNT(DISTINCT((id)))
+    FROM ipl_players
+    WHERE
+    (batting_team='Chennai Super Kings'
+    OR
+    bowling_team = 'Chennai Super Kings'))"
+Chennai Super Kings,159.3427

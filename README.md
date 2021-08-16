@@ -2,7 +2,7 @@
 In this project we make use of SQL queries to get insights from IPL data. We make use of tableau software for data visualization.
 
 ## DATA
-* The data used in project can be found [here](https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020).
+* The data used in project is taken from [kaggle_ipl_dataset](https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020).
 * You can also find the data used [here](https://github.com/srikanth2102/IPL_DATA_ANALYSIS/tree/main/data).
 
 ## OBJECTIVES
@@ -11,7 +11,7 @@ In this project we make use of SQL queries to get insights from IPL data. We mak
 * To find the batsmen with most runs.
 * To find the bowler with most wickets.
 * To find the fielder with most catches.
-* TO find the team which gave most extras.
+* To find the team which gave most extras.
 * To find the most common dismissal type.
 * Average score of team CSK.
 
